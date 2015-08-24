@@ -11,7 +11,7 @@ body {
 }
 
 .jumbotron {
-    background: url(bg.jpg) no-repeat center center;
+    background: url(img/bg.jpg) no-repeat center center;
     background-size: cover;
     background-color: transparent;
     height: 560px;
@@ -69,7 +69,7 @@ body {
 }
 
 .supporting-4 {
-    background: url(feature.jpg) no-repeat center center;
+    background: url(img/feature.jpg) no-repeat center center;
     background-size: cover;
     color: #fff;
     text-align: center;
